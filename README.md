@@ -1,0 +1,3 @@
+This personal portfolio webpage is a dark-themed layout built using HTML5 in index_6.html and External CSS in index_4.css. Designed deliberately as a non-responsive project to practice rigid spatial coordination, it integrates fixed navigation, structured work grids, and interactive hover effects with glowing box shadows. The codebase demonstrates advanced CSS properties including CSS Grid templates, Flexbox mechanics, absolute positioning, glassmorphic blur filters, and precise structural selector combinators to format typography without cluttering the code.
+
+Live Demo: https://vaishnavididewar74-png.github.io/Portfolio/
